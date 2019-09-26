@@ -1,3 +1,4 @@
+
   __  __       _   _     _              _       _   _            _               _   
  |  \/  |     | | | |   (_)            (_)     | | | |          | |             | |  
  | \  / | __ _| |_| |__  _  ___ _   _   _ ___  | |_| |__   ___  | |__   ___  ___| |_ 
@@ -12,3 +13,4 @@ Repository for conflicts
 
 ## Hello feel free to clone this repository
 SWC is the best! :D
+And I edited this file as well
